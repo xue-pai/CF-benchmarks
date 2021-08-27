@@ -184,7 +184,7 @@
             "link": "https://arxiv.org/abs/1905.08108",
             "company": "",
             "available": "N",
-            "tags": "Graph-based"
+            "tags": "#Graph-based"
         },
         {
             "year": "2019",
@@ -230,6 +230,7 @@
             "available": "N",
             "tags": ""
         },
+
         {
             "year": "2021",
             "pub": "CIKM'21",
@@ -239,7 +240,7 @@
             "link": "",
             "company": "Huawei",
             "available": "N",
-            "tags": "Two-tower"
+            "tags": "#Two-tower"
         },
         {
             "year": "2021",
@@ -250,7 +251,7 @@
             "link": "",
             "company": "Huawei",
             "available": "N",
-            "tags": "Graph-based"
+            "tags": "#Graph-based"
         },
         {
             "year": "2020",
@@ -261,7 +262,7 @@
             "link": "https://arxiv.org/abs/2007.01764",
             "company": "",
             "available": "N",
-            "tags": "Graph-based"
+            "tags": "#Graph-based"
         },
         {
             "year": "2021",
@@ -272,7 +273,7 @@
             "link": "https://arxiv.org/abs/2007.01764",
             "company": "",
             "available": "N",
-            "tags": "Graph-based"
+            "tags": "#Graph-based"
         },
         {
             "year": "2020",
