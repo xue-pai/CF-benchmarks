@@ -143,8 +143,8 @@
             "contr": "Yi Li"
         },
         {
-            "year": "2021",
-            "pub": "SIGIR'21",
+            "year": "2016",
+            "pub": "RecSys'16",
             "model": "YoutubeNet",
             "recall_20": "0.0686",
             "recall_50": "",
@@ -166,7 +166,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": "Reported by GRMF paper"
+            "contr": ""
         },
         {
             "year": "2017",
@@ -179,7 +179,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": "Reported by NeuMF paper"
+            "contr": "Reported by NGCF paper"
         },
         {
             "year": "2018",
@@ -192,7 +192,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by NGCF paper"
         },
         {
             "year": "2018",
@@ -205,7 +205,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by NGCF paper"
         },
         {
             "year": "2018",
@@ -218,7 +218,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by NGCF paper"
         },
         {
             "year": "2018",
@@ -231,7 +231,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by NGCF paper"
         },
         {
             "year": "2018",
@@ -270,7 +270,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by DGCF paper"
         },
         {
             "year": "2019",
@@ -283,7 +283,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by NGCF paper"
         },
         {
             "year": "2019",
@@ -296,7 +296,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by DGCF paper"
         },
         {
             "year": "2020",
