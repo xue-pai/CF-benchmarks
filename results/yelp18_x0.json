@@ -145,19 +145,6 @@
         {
             "year": "2021",
             "pub": "SIGIR'21",
-            "model": "SGL-ED",
-            "recall_20": "0.0675",
-            "recall_50": "",
-            "ndcg_20": "0.0555",
-            "ndcg_50": "",
-            "hit_rate_20": "",
-            "hit_rate_50": "",
-            "link": "",
-            "contr": "Reported by SGL-ED paper"
-        },
-        {
-            "year": "2021",
-            "pub": "SIGIR'21",
             "model": "YoutubeNet",
             "recall_20": "0.0686",
             "recall_50": "",
@@ -348,7 +335,7 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "",
-            "contr": ""
+            "contr": "Reported by SGL-ED paper"
         }
     ]
 }
