@@ -310,6 +310,45 @@
             "hit_rate_50": "",
             "link": "",
             "contr": "Reported by NIA-GCN paper"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "SimpleX",
+            "recall_20": "",
+            "recall_50": "",
+            "ndcg_20": "",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by SimpleX paper"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "SimpleX",
+            "recall_20": "0.187213",
+            "recall_50": "0.287394",
+            "ndcg_20": "0.155688",
+            "ndcg_50": "0.186816",
+            "hit_rate_20": "0.592705",
+            "hit_rate_50": "0.727242",
+            "link": "",
+            "contr": "Reported by SimpleX paper"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "UltraGCN",
+            "recall_20": "0.1862",
+            "recall_50": "",
+            "ndcg_20": "0.1580",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by UltraGCN paper"
         }
     ]
 }

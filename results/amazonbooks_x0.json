@@ -49,7 +49,7 @@
             "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/SLIM/SLIM_amazonbooks_x0.md",
             "contr": "Kelong Mao"
         }, {
-            "year": "CIKM",
+            "year": "2017",
             "pub": "CIKM'17",
             "model": "GRMF",
             "recall_20": "0.0354",
@@ -331,6 +331,32 @@
             "hit_rate_50": "",
             "link": "",
             "contr": "Reported by SGL-ED paper"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "SimpleX",
+            "recall_20": "0.058341",
+            "recall_50": "0.100549",
+            "ndcg_20": "0.046792",
+            "ndcg_50": "0.062420",
+            "hit_rate_20": "0.303007",
+            "hit_rate_50": "0.455727",
+            "link": "",
+            "contr": "Reported by SimpleX paper"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "UltraGCN",
+            "recall_20": "0.0681",
+            "recall_50": "",
+            "ndcg_20": "0.0556",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by UltraGCN paper"
         }
     ]
 }
