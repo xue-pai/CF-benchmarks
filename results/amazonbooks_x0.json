@@ -281,7 +281,7 @@
             "contr": "Reported by LightGCN paper"
         },
         {
-            "year": "SIGIR'2020",
+            "year": "2020",
             "pub": "SIGIR'2020",
             "model": "LightGCN (ours)",
             "recall_20": "0.0411",
