@@ -141,6 +141,19 @@
             "hit_rate_50": "0.7295",
             "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/LightGCN/LightGCN_TF_gowalla_x0.md",
             "contr": "Yi Li"
+        },
+        {
+            "year": "2020",
+            "pub": "SIGIR'20",
+            "model": "DGCF",
+            "recall_20": "0.1794",
+            "recall_50": "",
+            "ndcg_20": "0.1521",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by DGCF paper"
         }
     ]
 }

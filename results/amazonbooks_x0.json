@@ -49,8 +49,8 @@
             "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/SLIM/SLIM_amazonbooks_x0.md",
             "contr": "Kelong Mao"
         }, {
-            "year": "2005",
-            "pub": "NIPS'05",
+            "year": "CIKM",
+            "pub": "CIKM'17",
             "model": "GRMF",
             "recall_20": "0.0354",
             "recall_50": "",
@@ -171,7 +171,7 @@
         }, {
             "year": "2018",
             "pub": "WWW'18",
-            "model": "MultVAE",
+            "model": "Mult-VAE",
             "recall_20": "0.0407",
             "recall_50": "",
             "ndcg_20": "0.0315",
@@ -320,8 +320,8 @@
             "contr": "Reported by NAT4Rec paper"
         },
         {
-            "year": "2020",
-            "pub": "Arixv'20",
+            "year": "2021",
+            "pub": "SIGIR'21",
             "model": "SGL-ED",
             "recall_20": "0.0478",
             "recall_50": "",
