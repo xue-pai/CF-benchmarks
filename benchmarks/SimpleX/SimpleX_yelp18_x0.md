@@ -29,7 +29,8 @@ Yelp18 follows the data split and preprocessing steps in NGCF and LightGCN. We d
 
 ### Code
 The implementation code is already available at https://github.com/xue-pai/DEEM. 
-Please refer to the configuration file(https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
+
+Please refer to the [configuration file](https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
 ### Results
 ```
 2021-01-14 21:02:01,306 P19772 INFO [Metrics] Recall(k=20): 0.070111 - Recall(k=50): 0.132237 - NDCG(k=20): 0.057514 - NDCG(k=50): 0.080518 - HitRate(k=20): 0.415151 - HitRate(k=50): 0.608753

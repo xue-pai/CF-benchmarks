@@ -29,7 +29,8 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 
 ### Code
 The implementation code is already available at https://github.com/xue-pai/DEEM. 
-Please refer to the configuration file(https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
+
+Please refer to the [configuration file](https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
 ### Results
 ```
 2021-01-14 14:57:03,807 P50829 INFO [Metrics] Recall(k=20): 0.058341 - Recall(k=50): 0.100549 - NDCG(k=20): 0.046792 - NDCG(k=50): 0.062420 - HitRate(k=20): 0.303007 - HitRate(k=50): 0.455727
